@@ -1,13 +1,10 @@
 ## The Bonfire Boys - Line Following Robot:
 
-    <iframe width="560" height="315"
-src="https://youtube.com/shorts/Il4IDIKPqVI?feature=share" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
 
 
-https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/22b79e9f-87d1-4880-8745-0cb25421998e
+
+https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/c883ab51-d9d4-43f4-a393-6906be27072e
+
 
 
 

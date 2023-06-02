@@ -1,12 +1,9 @@
 ## The Bonfire Boys - Line Following Robot:
 
-https://github.com/chris-yanx/ECE5LineFollowingRobot/blob/main/linefollowingrobot_2.mp4
-
-![Video Title](https://ECE5LineFollowingRobot/blob/main/line following robot_1.mp4)
-
-https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/c883ab51-d9d4-43f4-a393-6906be27072e
 
 
+
+https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/d7de2d6e-3ae5-412c-9047-71dc67e53ecb
 
 
 

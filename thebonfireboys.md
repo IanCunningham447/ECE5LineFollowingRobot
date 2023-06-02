@@ -2,6 +2,7 @@
 
 
 Video:
+[![Video](https://raw.githubusercontent.com/IanCunningham447/ECE5LineFollowingRobot/main/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447/video-thumbnail.png)](https://raw.githubusercontent.com/IanCunningham447/ECE5LineFollowingRobot/main/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447/video-file.mp4)
 
 https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447
 

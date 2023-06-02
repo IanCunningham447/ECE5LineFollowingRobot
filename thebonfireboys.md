@@ -3,12 +3,7 @@
 
 Video:
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://youtube.com/shorts/Il4IDIKPqVI?feature=share))
-
-[![Video](https://raw.githubusercontent.com/IanCunningham447/ECE5LineFollowingRobot/main/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447/video-thumbnail.png)](https://raw.githubusercontent.com/IanCunningham447/ECE5LineFollowingRobot/main/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447/video-file.mp4)
-
-https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447
-
+Visit: https://youtube.com/shorts/Il4IDIKPqVI?feature=share
 
 
 

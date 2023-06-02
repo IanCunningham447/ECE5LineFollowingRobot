@@ -2,7 +2,7 @@
 
 
 
-![Video Title](https://line following robot_1.mp4)
+![Video Title](https://line_following_robot_1.mp4)
 
 https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/c883ab51-d9d4-43f4-a393-6906be27072e
 

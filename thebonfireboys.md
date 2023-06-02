@@ -1,9 +1,8 @@
 ## The Bonfire Boys - Line Following Robot:
 
 
-Video:
-
-Visit: https://youtube.com/shorts/Il4IDIKPqVI?feature=share
+# Video:
+https://youtube.com/shorts/Il4IDIKPqVI?feature=share
 
 
 

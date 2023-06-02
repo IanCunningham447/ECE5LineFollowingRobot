@@ -2,8 +2,9 @@
 
 
 
+https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/8595cb7f-ae2c-43ad-aebf-52b0c74e1447
 
-https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/d7de2d6e-3ae5-412c-9047-71dc67e53ecb
+
 
 
 

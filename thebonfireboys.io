@@ -1,4 +1,3 @@
-theme: minima
 # The Bonfire Boys - Line Following Robot
 
 ## Video

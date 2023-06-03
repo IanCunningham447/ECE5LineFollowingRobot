@@ -23,15 +23,17 @@ Riccardo customized the robot chassis, creating a two-story structure that stack
 We wired the motor shield, potentiometers, motors, and photoresistors, testing each component individually.
 
 - Motor Shield Circuit:
+
 ![Motor Shield Circuit](https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/9ed9b58a-154c-408d-acc8-3b3a234f80fa)
 
 - Potentiometer Circuit:
+
 ![Potentiometer Circuit](https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/2984df93-b714-45a5-be48-d5c288a1ff3e)
 
 - Motors:
+
 ![Motors](https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/074424ed-b1c1-485b-a761-b626a5e1a540)
 
 - Photoresistor Circuit:
-![Photoresistor Circuit](https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/c1771d89-0d66-476d-9f91-dabe4a2e1a76)
 
-Please note that the image URLs you provided are not accessible directly. Ensure that the images are hosted on a public server and update the URLs accordingly for them to be visible on your GitHub page.
+![Photoresistor Circuit](https://github.com/IanCunningham447/ECE5LineFollowingRobot/assets/109472436/c1771d89-0d66-476d-9f91-dabe4a2e1a76)
